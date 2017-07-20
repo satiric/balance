@@ -26,6 +26,7 @@ DIRECTORY STRUCTURE
       vendor/             contains dependent 3rd-party packages
       views/              contains view files for the Web application
       web/                contains the entry script and Web resources
+      core/               contains the dependent elements as behaviors, traits, base abstract classes and exceptions etc.
 
 
 
